@@ -18,7 +18,10 @@ To train a model from python console:
 2. Set console working directory to chatbot directory.
 3. To train a new model, run the below:
    train.py –d datasets\cornell_movie_dialog
-
+4. Trained model available at: https://drive.google.com/drive/folders/1sCfjFdKWb3IPSyEZGKGvzeeK8IEh3mm8 
+5. Once model is trained or model is downloaded(from the above link), ensure that the trained model is 
+   available under 'models\cornell_movie_dialog' location.
+   
 Note: Since the model is already trained, please skip this step
 
 ## Chat with Chatbot
